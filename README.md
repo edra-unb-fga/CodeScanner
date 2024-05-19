@@ -5,8 +5,12 @@ A scanner made in Python to scan QR codes for [CBR 2024](https://www.cbrobotica.
 
 
 ## Usage/Examples
+To start the program, run the following command
+```BASH
+    python3 main.py
+```
 
-
+Please change the ``cv2.VideoCapture(3)`` parameter to match your webcam, as you may have more than one camera.
 
 ## Requirements
  - [OpenCV is required](https://opencv.org/get-started/)
