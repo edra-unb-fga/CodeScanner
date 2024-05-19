@@ -1,8 +1,8 @@
 
 # QRCode Scanner C++
 
-A scanner made in c++ to scan QR codes and a Landing and Takeoff Base for [CBR 2024](https://www.cbrobotica.org/)
-
+A scanner made in c++ to scan QR codes and a Landing and Takeoff Base for [CBR 2024](https://www.cbrobotica.org/). <br>
+ATTENTION: THIS CODE MAY NOT WORK DEPENDING ON YOUR OPENCV VERSION.
 
 ## Usage/Examples
 
@@ -23,7 +23,8 @@ when you're ready to compile and run the code use this command
  - [We recomend Ubuntu 20.04](https://releases.ubuntu.com/focal/)
 
 
-## Authors
+
+## Authors  
 
 <table>
     <tr>
@@ -37,4 +38,5 @@ when you're ready to compile and run the code use this command
       </td>
     </tr>
 </table>
+
 
