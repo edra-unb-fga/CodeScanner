@@ -5,7 +5,10 @@ A scanner made in Python to scan codes like, QR and barcodes for [CBR 2024](http
 
 
 ## Usage/Examples
-To start the program, run the following command
+To start the program, run the following commands
+```BASH
+    pip install -r requirements.txt
+```
 ```BASH
     python3 main.py
 ```
