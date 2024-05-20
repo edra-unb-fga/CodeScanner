@@ -1,7 +1,7 @@
 
-# QRCode Scanner Python
+# Code Scanner Python
 
-A scanner made in Python to scan QR codes for [CBR 2024](https://www.cbrobotica.org/). <br>
+A scanner made in Python to scan codes like, QR and barcodes for [CBR 2024](https://www.cbrobotica.org/). <br>
 
 
 ## Usage/Examples
