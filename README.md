@@ -13,7 +13,7 @@ To start the program, run the following commands
     python3 main.py
 ```
 
-Please change the ``cv2.VideoCapture(3)`` parameter to match your webcam, as you may have more than one camera.
+Please change the [config file](https://github.com/edra-unb-fga/CodeScanner/blob/Python_Version/config.py) parameters to match your preferences.
 
 ## Requirements
  - [OpenCV is required](https://opencv.org/get-started/)
